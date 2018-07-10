@@ -175,7 +175,7 @@ When you start working in OpenConcept, you will notice that no one comes along a
 
 Whenever there is a new project, this will be published on \#openallocation channel on Slack. Here you can register your interest for the project and ask to be part of the team if you wish. Keep in mind that most people in OpenConcept work on at least two projects simultaneously \(often a main project and one or two side projects\), so if something interests you, don’t hold back just because you are already working on something else. If you have a few hours to dedicate to something new, go for it! Once you are part of a team and working on a project, you can stay on that project for as long as you like. If the project is very long, and you feel you need a change at some point, you can leave and jump into a new project, provided someone else takes your place, and you discuss the situation with your team first. Project rotation is valued within OpenConcept because it enables you to try out new things and gain new skills on different projects. You will then be able to return to your original project \(if you wish\) with a fresh view and a greater knowledge base.
 
-Some of the projects we work on in OpenConcept are opensource, and you can take a single story and implement it in the same way you do for the community. We encourage our colleagues to keep their github account alive and full.
+Our projects are opensource, and you can take a single story and implement it in the same way you do for the community. We encourage our colleagues to keep their Github account alive and full.
 
 ### Meeting customers
 
@@ -216,27 +216,14 @@ Now that you’ve read all about our company purpose, mission and values, and kn
 
 ### Benefit Projects - for people, community and land
 
-#### [HireBitto](http://hirebitto.com)
+#### Ladies Learning Code
 
-HireBitto is a project which benefits local farmers and cheesemakers who choose to work with traditional methods, without the use of chemicals or industrial machinery. For every new employee, the company buys a wheel of Storico Ribelle cheese. The cheese is decorated with blueberry ink and kept in the casèra for three years. After this period, it is auctioned and the earnings are reinvested in the community. The cheese is paid for by OpenConcept, but it belongs to the community. The employee is responsible for this benefit creation process. HireBitto is essentially an interdependence agreement between OpenConcept, you \(the employee\) and the local community - so you can start creating benefit with the company from day one!
+#### OpenMedia
 
-#### [Cycle2Work](http://cycle2work.io)
+#### Drupal Community
 
-Cycle2Work.io is a project that lets you get paid for commuting to work, whilst safeguarding the environment. It’s connected to the app Strava, where you can join the :m team and earn € 0.20/km for cycling rather than driving to the office, and save an average of 4.32 kg of CO2 each day.
-
-#### [Company Food](https://companyfood.tumblr.com/)
-
-Two of OpenConcept’s team players are farmers who work the land locally and grow vegetables, cereals, fruits and make honey. This produce is freely available for all employees who come to the office, so that people can enjoy healthy, organic and local food. You will find this food in the office kitchen and are welcome to eat what you want!
-
-#### [Share our Break](http://shareourbreak.com)
-
-Share our Break is a small project that was born to help local farmers promote and sell their products through our network. We start by sending a free “break” to our customers, so that they can share the delicious organic food we have in the office with us, and then we ask them to order more “breaks” and share them with their customers. At the moment we are promoting three local biodynamic farmers.
 
 ### Taking care of the environment
-
-#### Hiring a farmer
-
-OpenConcept has a policy whereby for every 20 employees, the company hires a farmer to work the land and grow organic produce. There is a clause in all work contracts from 2017 onwards that states the joint responsibility of the company and the employee to ensure that this policy is upheld. We hire farmers because we believe their work is extremely important: without farming we would not be able to nourish ourselves, live a healthy life and get our work done!
 
 #### Environmentally friendly workplace
 
@@ -244,7 +231,7 @@ Wherever you choose to work from, it is important that you practice environmenta
 
 #### Corporate travel
 
-We try to limit corporate travel by choosing video conferencing whenever possible. However, sometimes it is necessary to travel and meet people in person. When travelling we all \(starting with the CEOs!\) prefer economy class for trains and flights, and Airbnb apartments or small family run hotels for overnight accomodation. This is because we like to help the local economy, wherever we are staying.
+We try to limit corporate travel by choosing video conferencing whenever possible. However, sometimes it is necessary to travel and meet people in person. When travelling we all \(starting with the CEOs!\) prefer economy class for trains and flights, and Airbnb apartments or small family run hotels for overnight accomodation. This is because we like to help the local economy, wherever we are staying. We track our plane travel to account for our CO2 Emissions. 
 
 #### Commuting
 
@@ -255,14 +242,6 @@ When commuting to and from the office, please be mindful of the environment. If 
 #### PSYA
 
 OpenConcept has partnered with PSYA to offer all employees and their families a free and anonymous counselling service. PSYA has seven trained psychologists who are available on the phone 24/7. You can call them and speak to someone for both work related and personal issues and you don’t have to give your real name. There is also a live chat service available in the daytime through PSYA’s website. Please check out [this presentation](https://docs.google.com/presentation/d/12mUO43tkFL8HwsQEaanNM-rjHYEk-Av5EV_vkvlnpOQ/edit?usp=sharing) for all the info.
-
-#### Farmer for one day
-
-If you are experiencing a period of stress, or would just like to try something different once in a while, you have the possibility to join the OpenConcept farmers for a day or more of work in the fields. Work is seasonal and varied, and can also be a great opportunity to learn something new! Just ask your farmer colleagues what they need help with - and don’t forget to notify your team that you will be offline for a while. Happy farming!
-
-#### English lessons
-
-In OpenConcept we use English a lot and we wish for everyone to have a good level of this language. You can take part in English lessons for free during working hours, with a qualified mothertongue teacher. Our English classes are structured so that you can do work whenever you want and have it reviewed, organise a conversation class when it suits you and take part remotely too. Check out the [English for Smartworkers](https://docs.google.com/presentation/d/1m1sai3juBT07MlSr-Txqwn0NCBrnX8rpPtmZkwnPxWI/edit?usp=sharing) presentation for more info.
 
 #### Out of office days
 
