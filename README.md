@@ -3,7 +3,7 @@
 ## Welcome to OpenConcept!
 
 In this handbook you will find useful information that will help you get started and guide you during your time with us. Please read this information carefully, and don’t hesitate to ask if anything is unclear!
-![Believing OpenConcept.com](believing-OpenConcept-com.png)
+![Believing OpenConcept.ca](believing-OpenConcept-com.png)
 ## Table of Contents
 
 
