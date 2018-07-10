@@ -389,3 +389,6 @@ Honoring one's commitments is a matter of integrity and honesty. For the IT prof
 
 The future of the IT profession depends on both technical and ethical excellence. Not only is it important for OpenConcept professionals to adhere to the principles expressed in this Code, each member should encourage and support adherence by other members.
 
+### Thanks to
+
+We really thank the folks at mondora for providing a really good base for us to express our culture and employee policies https://mondora.gitbook.io/handbook/
